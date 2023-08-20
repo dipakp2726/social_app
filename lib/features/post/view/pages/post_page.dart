@@ -5,8 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:social_app/features/post/models/post.dart';
 import 'package:social_app/features/post/provider/current_post_provider.dart';
-import 'package:social_app/features/post/widgets/app_bar_leading.dart';
-import 'package:social_app/features/post/widgets/widgets.dart';
+import 'package:social_app/features/post/view/widgets/app_bar_leading.dart';
+import 'package:social_app/features/post/view/widgets/post_tags.dart';
+import 'package:social_app/features/post/view/widgets/widgets.dart';
 
 class ArticlePage extends ConsumerWidget {
   const ArticlePage({

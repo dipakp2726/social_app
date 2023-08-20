@@ -1,7 +1,7 @@
 import 'package:app_ui/app_ui.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:social_app/features/post/view/post_list_page.dart';
+import 'package:social_app/features/post/view/pages/post_list_page.dart';
 
 import 'home_page.dart';
 

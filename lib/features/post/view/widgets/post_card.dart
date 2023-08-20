@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:social_app/features/post/models/post.dart';
-import 'package:social_app/features/post/widgets/post_author.dart';
-import 'package:social_app/features/post/widgets/post_cover_image.dart';
+import 'package:social_app/features/post/view/pages/post_page.dart';
+import 'package:social_app/features/post/view/widgets/widgets.dart';
 
-import '../view/post_page.dart';
 import 'post_info.dart';
 import 'post_tags.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'features/post/view/post_list_page.dart';
+import 'features/post/view/pages/post_list_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -1,8 +1,8 @@
 import 'package:app_ui/app_ui.dart';
 import 'package:flutter/material.dart';
 import 'package:social_app/features/post/post.dart';
+import 'package:social_app/features/post/view/widgets/post_card.dart';
 
-import 'package:social_app/features/post/widgets/post_card.dart';
 
 class PostListWidget extends ConsumerWidget {
   const PostListWidget(

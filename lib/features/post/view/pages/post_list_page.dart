@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:social_app/features/post/post.dart';
-import 'package:social_app/features/post/widgets/post_list.dart';
+import 'package:social_app/features/post/view/widgets/post_list.dart';
 
 /// {@template post_page}
 /// A description for PostPage

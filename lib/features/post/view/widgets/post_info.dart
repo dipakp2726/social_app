@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:social_app/features/post/provider/liked_post.dart';
 
-import '../models/post.dart';
+import '../../models/post.dart';
+
 
 class PostInfo extends StatelessWidget {
   const PostInfo(this.post, {super.key, this.isMin = false});
