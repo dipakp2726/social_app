@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:social_app/provider_logger.dart';
 import 'package:social_app/social_app.dart';
 
 import 'core/services/storage/hive_storage_service.dart';
@@ -19,6 +20,7 @@ void main() {
 
       runApp(
         ProviderScope(
+          observers: [ProviderLogger()],
           overrides: [
             storageServiceProvider.overrideWithValue(initializedStorageService),
           ],

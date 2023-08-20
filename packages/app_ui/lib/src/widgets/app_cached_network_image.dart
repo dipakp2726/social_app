@@ -75,8 +75,8 @@ class AppCachedNetworkImage extends StatelessWidget {
       return const PlaceHolderImage();
     }
 
-    final memCacheHeight = height != null ? (height! * 2).ceil() : null;
-    final memCacheWidth = width != null ? (width! * 2).ceil() : null;
+    // final memCacheHeight = height != null ? (height! * 2).ceil() : null;
+    // final memCacheWidth = width != null ? (width! * 2).ceil() : null;
     return RepaintBoundary(
       child: CachedNetworkImage(
         placeholder: noLoader
@@ -90,8 +90,8 @@ class AppCachedNetworkImage extends StatelessWidget {
                             )
                           : const AppLoader()),
                 ),
-        memCacheHeight: memCacheHeight,
-        memCacheWidth: memCacheWidth,
+        // memCacheHeight: memCacheHeight,
+        // memCacheWidth: memCacheWidth,
         imageUrl: imageUrl,
         width: width,
         height: height,
