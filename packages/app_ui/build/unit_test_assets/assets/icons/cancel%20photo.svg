@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g id="cancel_photo" data-name="cancel photo" transform="translate(-566.5 -477.418)">
+        <g id="Rectangle_19035" data-name="Rectangle 19035" transform="translate(566.5 477.418)" fill="#fff"
+           stroke="#707070" stroke-width="1">
+            <rect width="20" height="20" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="19" height="19" rx="9.5" fill="none"/>
+        </g>
+        <g id="x" transform="translate(567.434 478.353)">
+            <line id="Line_31" data-name="Line 31" x1="6" y2="6" transform="translate(6.066 6.066)" fill="none"
+                  stroke="#171336" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_32" data-name="Line 32" x2="6" y2="6" transform="translate(6.066 6.066)" fill="none"
+                  stroke="#171336" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+    </g>
+</svg>

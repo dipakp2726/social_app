@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163.212" height="163.212"
+     viewBox="0 0 163.212 163.212">
+    <defs>
+        <filter id="Ellipse_14" x="0" y="0" width="163.212" height="163.212" filterUnits="userSpaceOnUse">
+            <feOffset dy="-4" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="20" result="blur"/>
+            <feFlood flood-color="#1a508b" flood-opacity="0.251"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_12" x="43.459" y="47.459" width="77.001" height="77.001" filterUnits="userSpaceOnUse">
+            <feOffset input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="10" result="blur-2"/>
+            <feFlood flood-color="#fff" flood-opacity="0.322"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Initial_Pin" data-name="Initial Pin" transform="translate(60 64)">
+        <g transform="matrix(1, 0, 0, 1, -60, -64)" filter="url(#Ellipse_14)">
+            <g id="Ellipse_14-2" data-name="Ellipse 14" transform="translate(60 64)" fill="rgba(23,19,54,0.3)"
+               stroke="rgba(23,19,54,0.4)" stroke-width="1" opacity="0.3">
+                <circle cx="21.606" cy="21.606" r="21.606" stroke="none"/>
+                <circle cx="21.606" cy="21.606" r="21.106" fill="none"/>
+            </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -60, -64)" filter="url(#Ellipse_12)">
+            <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="8.501" cy="8.501" r="8.501"
+                    transform="translate(73.46 77.46)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="4.25" cy="4.25" r="4.25" transform="translate(17.71 17.71)"
+                fill="#171336"/>
+    </g>
+</svg>

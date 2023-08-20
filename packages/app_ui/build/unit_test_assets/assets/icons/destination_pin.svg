@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.478" height="45.013" viewBox="0 0 24.478 45.013">
+    <g id="destination_pin" data-name="destination pin" transform="translate(0 0)">
+        <path id="Union_1" data-name="Union 1" d="M3.537,20.844a12.239,12.239,0,1,1,17.5-.1L12.189,31.635Z"
+              fill="#171336"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="7.161" cy="7.161" r="7.161" transform="translate(5.079 5.078)"
+                fill="#fff"/>
+        <path id="Path_66" data-name="Path 66" d="M0,0V13.2" transform="translate(12.188 27.931)" fill="none"
+              stroke="#171336" stroke-width="3"/>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="4.959" cy="5.313" rx="4.959" ry="5.313"
+                 transform="translate(7.245 34.387)" fill="#171336"/>
+    </g>
+</svg>
